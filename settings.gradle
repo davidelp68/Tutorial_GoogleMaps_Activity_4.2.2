@@ -1,0 +1,2 @@
+rootProject.name = "Tutorial GoogleMaps Activity 4.2.2"
+include ':app'
